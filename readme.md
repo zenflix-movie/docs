@@ -18,8 +18,8 @@ An online video streaming platform with personalized recommendations, multi-prof
 ## Getting Started
 
 ```bash
-git clone https://github.com/tuguldur.dev/zenflix.git
-cd zenflix
+git clone https://github.com/zenflix-movie/app.git 
+cd app
 npm install
 npm start
 ```
