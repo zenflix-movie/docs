@@ -88,8 +88,8 @@
         <mxCell id="eWbgwhgsT8nShzA8VmVa-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
           <mxGeometry height="60" width="30" x="1234" y="301" as="geometry" />
         </mxCell>
-        <mxCell id="fCTQq9jOyBxkKmeawESB-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Guest" vertex="1">
-          <mxGeometry height="60" width="30" x="63" y="90" as="geometry" />
+        <mxCell id="fCTQq9jOyBxkKmeawESB-1" parent="1" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;labelPosition=center;align=center;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Guest&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="90" as="geometry" />
         </mxCell>
         <mxCell id="fCTQq9jOyBxkKmeawESB-4" edge="1" parent="1" style="endArrow=none;html=1;strokeColor=#333333;entryX=0.089;entryY=0.795;entryDx=0;entryDy=0;entryPerimeter=0;" target="uc2">
           <mxGeometry relative="1" as="geometry">
@@ -173,6 +173,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1224" y="327" as="sourcePoint" />
             <mxPoint x="1207" y="338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCTQq9jOyBxkKmeawESB-13" edge="1" parent="1" source="eWbgwhgsT8nShzA8VmVa-1" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;endSize=9;" target="fCTQq9jOyBxkKmeawESB-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="330" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
