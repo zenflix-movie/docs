@@ -34,6 +34,12 @@ npm start
 ## Use case
 ![Use case](./use-case.webp)
 
+## Domain model
+![Domain model](./domain_model.webp)
+
+## Sequence diagram
+![Login sequence](./sequence_login.webp)
+![Video Play sequence](./sequence_play_video.webp)
 
 ## License
 
