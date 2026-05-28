@@ -38,7 +38,11 @@ npm start
 ![Domain model](./domain_model.webp)
 
 ## Sequence diagram
+### Login sequence diagram
 ![Login sequence](./sequence_login.webp)
+
+
+### Video play sequence diagram
 ![Video Play sequence](./sequence_play_video.webp)
 
 ## License
