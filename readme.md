@@ -45,6 +45,9 @@ npm start
 ### Video play sequence diagram
 ![Video Play sequence](./sequence_play_video.webp)
 
+### Architecture
+![Architecture](./architecture.webp)
+
 ## License
 
 MIT
