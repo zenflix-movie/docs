@@ -48,6 +48,12 @@ npm start
 ### Architecture
 ![Architecture](./architecture.webp)
 
+### Sequence diagram detailed (Inlcudes data and service layer)
+![Sequence diagram detailed](./sequence_detailed.webp)
+
+### Class diagram (Includes data and service layer)
+![Class diagram](./class_diagram.webp)
+
 ## License
 
 MIT
