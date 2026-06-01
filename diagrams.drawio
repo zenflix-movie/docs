@@ -1079,17 +1079,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WRH2_fdCusG7AFqIsgc6-43" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="WRH2_fdCusG7AFqIsgc6-4" value="Session cookie set">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2344" y="2265" />
-            </Array>
-            <mxPoint x="2650" y="2265" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WRH2_fdCusG7AFqIsgc6-44" edge="1" parent="1" source="WRH2_fdCusG7AFqIsgc6-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="WRH2_fdCusG7AFqIsgc6-3" value="{ token, user }">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1381" y="2250" />
+              <mxPoint x="1466" y="2257" />
               <mxPoint x="1507" y="2311" />
             </Array>
           </mxGeometry>
@@ -1097,23 +1091,27 @@
         <mxCell id="WRH2_fdCusG7AFqIsgc6-45" edge="1" parent="1" source="WRH2_fdCusG7AFqIsgc6-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="WRH2_fdCusG7AFqIsgc6-2" value="{ success: true, redirectTo: &quot;/home&quot; }">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1155" y="2357" />
+              <mxPoint x="1166" y="2302" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WRH2_fdCusG7AFqIsgc6-46" edge="1" parent="1" source="WRH2_fdCusG7AFqIsgc6-2" style="curved=1;endArrow=block;" target="WRH2_fdCusG7AFqIsgc6-2" value="router.push(&quot;/home&quot;)">
+        <mxCell id="WRH2_fdCusG7AFqIsgc6-46" edge="1" parent="1" style="curved=1;endArrow=block;" value="router.push(&quot;/home&quot;)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1005" y="2403" />
-              <mxPoint x="1005" y="2433" />
+              <mxPoint x="1005" y="2357" />
+              <mxPoint x="1005" y="2387" />
             </Array>
+            <mxPoint x="940.01" y="2357" as="sourcePoint" />
+            <mxPoint x="940.01" y="2387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WRH2_fdCusG7AFqIsgc6-47" edge="1" parent="1" source="WRH2_fdCusG7AFqIsgc6-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="WRH2_fdCusG7AFqIsgc6-1" value="Redirect to /home">
+        <mxCell id="WRH2_fdCusG7AFqIsgc6-47" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" value="Redirect to /home">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="771" y="2479" />
+              <mxPoint x="771" y="2434" />
             </Array>
+            <mxPoint x="939.6349999999998" y="2434" as="sourcePoint" />
+            <mxPoint x="504.1400000000001" y="2434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WRH2_fdCusG7AFqIsgc6-48" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;fontColor=light-dark(#333333,#cccccc);" value="Guest remains on /login" vertex="1">
